@@ -67,3 +67,25 @@ cd
 clear
 git clone git@github.com:learn-co-curriculum/phase-0-html-tag-lab.git
 cd phase-0-html-tag-lab
+clear
+git clone git@github.com:shalom-nganga/phase-0-html-tag-lab.git
+git clone https://github.com/shalom-nganga/phase-0-html-tag-lab.git
+code
+explorer.exe index.html
+cd phase-0-html-tag-lab.git
+git add .
+git commit -m "completed assignment"
+git push
+cd phase-0-html-tag-lab.git
+clear
+cd phase-0-html-tag-lab
+code
+explorer.exe index.html
+cd
+explorer.exe index.html
+cd ..
+cd
+cd phase-0-html-tag-lab
+git add
+git commit -m "completetd assignment"
+git push
