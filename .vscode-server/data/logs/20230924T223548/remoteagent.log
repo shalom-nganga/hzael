@@ -1,0 +1,102 @@
+2023-09-24 22:35:49.207 [info] 
+
+
+
+
+2023-09-24 22:35:49.207 [info] Extension host agent started.
+2023-09-24 22:35:49.281 [info] Started initializing default profile extensions in extensions installation folder. file:///home/shalom/.vscode-server/extensions
+2023-09-24 22:35:49.322 [info] [127.0.0.1][a6d58342][ManagementConnection] New connection established.
+2023-09-24 22:35:49.398 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/shalom/.vscode-server/extensions
+2023-09-24 22:35:50.063 [info] [127.0.0.1][49550dfe][ExtensionHostConnection] New connection established.
+2023-09-24 22:35:50.153 [info] [127.0.0.1][49550dfe][ExtensionHostConnection] <246> Launched Extension Host Process.
+2023-09-24 22:35:50.338 [info] [127.0.0.1][1bf3b6f0][ManagementConnection] New connection established.
+2023-09-24 22:35:50.559 [info] [127.0.0.1][227302a7][ManagementConnection] New connection established.
+2023-09-24 22:35:51.309 [info] [127.0.0.1][ee320eed][ExtensionHostConnection] New connection established.
+2023-09-24 22:35:51.482 [info] [127.0.0.1][ee320eed][ExtensionHostConnection] <284> Launched Extension Host Process.
+2023-09-24 22:35:53.248 [info] [127.0.0.1][5a99304e][ManagementConnection] New connection established.
+2023-09-24 22:35:54.266 [info] [127.0.0.1][b76b4f49][ExtensionHostConnection] New connection established.
+2023-09-24 22:35:54.350 [info] [127.0.0.1][b76b4f49][ExtensionHostConnection] <321> Launched Extension Host Process.
+2023-09-24 22:35:56.955 [info] [127.0.0.1][5acc8a8f][ExtensionHostConnection] New connection established.
+2023-09-24 22:35:57.416 [info] [127.0.0.1][5acc8a8f][ExtensionHostConnection] <354> Launched Extension Host Process.
+2023-09-24 22:44:51.104 [info] [127.0.0.1][5a99304e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-24 22:44:51.109 [error] Error: Throttler is disposed
+    at c.queue (/home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-24 22:44:51.122 [error] Error: Throttler is disposed
+    at c.queue (/home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-24 22:44:56.204 [info] [127.0.0.1][5acc8a8f][ExtensionHostConnection] <354> Extension Host Process exited with code: 0, signal: null.
+2023-09-24 22:45:26.231 [info] [127.0.0.1][227302a7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-24 22:45:26.233 [error] Error: Throttler is disposed
+    at c.queue (/home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-24 22:45:31.362 [info] [127.0.0.1][ee320eed][ExtensionHostConnection] <284> Extension Host Process exited with code: 0, signal: null.
+2023-09-25 00:10:15.513 [info] [127.0.0.1][aa80975c][ManagementConnection] New connection established.
+2023-09-25 00:10:16.958 [info] [127.0.0.1][f040f4e9][ExtensionHostConnection] New connection established.
+2023-09-25 00:10:16.976 [info] [127.0.0.1][f040f4e9][ExtensionHostConnection] <17508> Launched Extension Host Process.
+2023-09-25 00:13:17.729 [info] [127.0.0.1][1bf3b6f0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-25 00:13:17.732 [error] Error: Throttler is disposed
+    at c.queue (/home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-25 00:13:17.736 [error] Error: Throttler is disposed
+    at c.queue (/home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-25 00:13:22.842 [info] [127.0.0.1][b76b4f49][ExtensionHostConnection] <321> Extension Host Process exited with code: 0, signal: null.
+2023-09-25 01:01:53.155 [info] [127.0.0.1][09b42dfe][ManagementConnection] New connection established.
+2023-09-25 01:01:54.282 [info] [127.0.0.1][4025d574][ExtensionHostConnection] New connection established.
+2023-09-25 01:01:54.378 [info] [127.0.0.1][4025d574][ExtensionHostConnection] <26091> Launched Extension Host Process.
+2023-09-25 01:03:36.465 [info] [127.0.0.1][aa80975c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-25 01:03:36.469 [error] Error: Throttler is disposed
+    at c.queue (/home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-25 01:03:36.476 [error] Error: Throttler is disposed
+    at c.queue (/home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-25 01:03:41.600 [info] [127.0.0.1][f040f4e9][ExtensionHostConnection] <17508> Extension Host Process exited with code: 0, signal: null.
+2023-09-25 01:03:44.320 [info] [127.0.0.1][a6d58342][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-25 01:03:44.321 [error] Error: Throttler is disposed
+    at c.queue (/home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-09-25 01:03:44.321 [error] Error: Throttler is disposed
+    at c.queue (/home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-09-25 01:03:49.393 [info] [127.0.0.1][49550dfe][ExtensionHostConnection] <246> Extension Host Process exited with code: 0, signal: null.
+2023-09-25 01:03:52.091 [info] [127.0.0.1][09b42dfe][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-25 01:03:52.092 [error] Error: Throttler is disposed
+    at c.queue (/home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-09-25 01:03:52.093 [error] Error: Throttler is disposed
+    at c.queue (/home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/shalom/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
